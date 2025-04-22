@@ -1,6 +1,7 @@
 # gstock
 
-A new Flutter project.
+GStock est une application mobile dédiée à la gestion du stock de matériel informatique.
+Elle est destinée à l'Association Jeunes Science de Maroc, afin de faciliter le suivi des composants et équipements informatiques.
 
 ## Getting Started
 
